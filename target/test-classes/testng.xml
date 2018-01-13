@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+ <test name="Test">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.mavenproject.MavenProject.Selenium"/>
+    </classes>
+  </test>
+  <!-- <test name="test1">
+       <parameter name="browser" value="firefox"></parameter>
+  
+   <classes>
+    
+     <class name="com.mavenproject.MavenProject.Selenium"/>
+    </classes>
+    
+  </test>
+  <test name="Test2">
+    <parameter name="browser" value="ie"></parameter>
+  
+    <classes>
+      <class name="com.mavenproject.MavenProject.Selenium"/>
+    </classes>
+  </test>--> 
+</suite> <!-- Suite -->
