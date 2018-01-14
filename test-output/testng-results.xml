@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="72057" started-at="2018-01-13T12:22:02Z" finished-at="2018-01-13T12:23:14Z">
+  <suite name="Suite" duration-ms="74863" started-at="2018-01-14T05:57:32Z" finished-at="2018-01-14T05:58:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="72057" started-at="2018-01-13T12:22:02Z" finished-at="2018-01-13T12:23:14Z">
+    <test name="Test2" duration-ms="74863" started-at="2018-01-14T05:57:32Z" finished-at="2018-01-14T05:58:46Z">
       <class name="com.mavenproject.testCases.tracko_TestCase">
-        <test-method status="PASS" signature="Sign_upTestCaases()[pri:0, instance:com.mavenproject.testCases.tracko_TestCase@13b32d7]" name="Sign_upTestCaases" duration-ms="71958" started-at="2018-01-13T17:52:02Z" finished-at="2018-01-13T17:53:14Z">
+        <test-method status="PASS" signature="Sign_upTestCaases()[pri:0, instance:com.mavenproject.testCases.tracko_TestCase@13b32d7]" name="Sign_upTestCaases" duration-ms="74779" started-at="2018-01-14T11:27:32Z" finished-at="2018-01-14T11:28:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sign_upTestCaases -->
       </class> <!-- com.mavenproject.testCases.tracko_TestCase -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
 </testng-results>
